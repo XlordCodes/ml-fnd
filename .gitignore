@@ -22,3 +22,10 @@ ENV/
 build/
 dist/
 *.egg-info
+
+app.py
+preprocess.py
+vectorize_and_split.py
+train_eval.py
+predict.py
+load.py
